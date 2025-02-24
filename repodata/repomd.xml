@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
+  <revision>1740382692</revision>
+  <data type="primary">
+    <checksum type="sha256">0e83999cdedc201d48400aa667a59f927c5a09a32d850e1931955014a7e32d6b</checksum>
+    <open-checksum type="sha256">2ecfd4946913bdea62c176060ad9a85291f99276af7acc4f8411d059f19acf91</open-checksum>
+    <location href="repodata/0e83999cdedc201d48400aa667a59f927c5a09a32d850e1931955014a7e32d6b-primary.xml.gz"/>
+    <timestamp>1740382691</timestamp>
+    <size>563919</size>
+    <open-size>3819234</open-size>
+  </data>
+  <data type="filelists">
+    <checksum type="sha256">de46450a6fe262ee4a77960cac4cc238605a3ab74dac769dcbd8123fd4609040</checksum>
+    <open-checksum type="sha256">1c81bf81118f9172b78e089ed35a2573a59a321297a1602814bc4d4af43ca9b6</open-checksum>
+    <location href="repodata/de46450a6fe262ee4a77960cac4cc238605a3ab74dac769dcbd8123fd4609040-filelists.xml.gz"/>
+    <timestamp>1740382691</timestamp>
+    <size>1475889</size>
+    <open-size>18144335</open-size>
+  </data>
+  <data type="other">
+    <checksum type="sha256">f66853a79cd6b467630fe4ef6b0373f7d6bb021a1252b13ea5e0552918734938</checksum>
+    <open-checksum type="sha256">f210f8e781e68739688ed0a14442e25aeafe205fa6d5f192d2b65bbb7e7b253e</open-checksum>
+    <location href="repodata/f66853a79cd6b467630fe4ef6b0373f7d6bb021a1252b13ea5e0552918734938-other.xml.gz"/>
+    <timestamp>1740382691</timestamp>
+    <size>134291</size>
+    <open-size>615099</open-size>
+  </data>
+  <data type="primary_db">
+    <checksum type="sha256">2ee04f5f2b57467e7ee47633cfeeada69efb8d3c2b89e70ad7fb4328ad8f73db</checksum>
+    <open-checksum type="sha256">eb1ba45502cdc96e45f9466064b4adfacd49a1997686d5b2a4c03873bd2ad12a</open-checksum>
+    <location href="repodata/2ee04f5f2b57467e7ee47633cfeeada69efb8d3c2b89e70ad7fb4328ad8f73db-primary.sqlite.bz2"/>
+    <timestamp>1740382692</timestamp>
+    <size>1027882</size>
+    <open-size>4419584</open-size>
+    <database_version>10</database_version>
+  </data>
+  <data type="filelists_db">
+    <checksum type="sha256">8b1c7875bd7c18900fa33d7fbb23d26b3fd12df9d191a3a5ca35bd38912290b1</checksum>
+    <open-checksum type="sha256">d0794a04ec703f9c4ae1a13400d5584bd5fdbd6949978ea3418f466ce7eeecc3</open-checksum>
+    <location href="repodata/8b1c7875bd7c18900fa33d7fbb23d26b3fd12df9d191a3a5ca35bd38912290b1-filelists.sqlite.bz2"/>
+    <timestamp>1740382692</timestamp>
+    <size>1753335</size>
+    <open-size>8142848</open-size>
+    <database_version>10</database_version>
+  </data>
+  <data type="other_db">
+    <checksum type="sha256">98f42d237343bce913d85247c240d6f5bf8a7782dc91f651e44a0ce028f181f0</checksum>
+    <open-checksum type="sha256">07f03b5a819d337db0a82d3294c7456000e32b76f85312c7785ef4001ee59e0c</open-checksum>
+    <location href="repodata/98f42d237343bce913d85247c240d6f5bf8a7782dc91f651e44a0ce028f181f0-other.sqlite.bz2"/>
+    <timestamp>1740382691</timestamp>
+    <size>158789</size>
+    <open-size>536576</open-size>
+    <database_version>10</database_version>
+  </data>
+</repomd>
